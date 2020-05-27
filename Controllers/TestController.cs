@@ -8,7 +8,7 @@ namespace WebAPI.Controllers
 {
     public class TestController : Controller
     {
-        //20052020 Enam
+        //20052020 Tujuh
         public IActionResult Index()
         {
             return View();
